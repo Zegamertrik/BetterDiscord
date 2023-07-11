@@ -32,3 +32,7 @@
 .container-3w7J-x[aria-label*="CapnKitten"]:before {
       --title-custom: #184c88;
 }
+
+.container-3w7J-x[aria-label*="Ngoclooks"]:before {
+      --title-custom: #5703EB;
+}
